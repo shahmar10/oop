@@ -1,6 +1,6 @@
 <?php
 
-class Model
+class Model implements Car
 {
     use Model2, Model3;
 

@@ -3,7 +3,7 @@
 class Animal extends Bird { //Extend - miras alir. 1 class yalnizca 1 class extend ve ya miras ala biler
     public string $name;
     public int $maxLiveYear;
-    private bool $isSavage;
+    private bool $isSavage2;
     public static int $legCount = 4;
 
     //Miras aldigim clasin public ve protected metod ve propertylerini elde ede ve deyise bilerem
